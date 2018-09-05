@@ -1,5 +1,7 @@
 <!DOCTYPE html>
+<main>
 <style>
+
 #main {
   margin: 10px auto;
 }
@@ -44,6 +46,9 @@ img {
 text-align: center;
   padding: 50px;
 }
+
+</style>
+</main>
 
 <html>
 <main>
