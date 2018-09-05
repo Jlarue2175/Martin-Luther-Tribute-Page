@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<main>
+<head>
 <style>
 
 #main {
@@ -48,7 +48,7 @@ text-align: center;
 }
 
 </style>
-</main>
+</head>
 
 <html>
 <main>
